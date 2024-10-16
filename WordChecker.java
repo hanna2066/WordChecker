@@ -1,4 +1,6 @@
-public static void main(String[] args)
+
+ public WordChecker(ArrayList<String> list)
     {
-        WordChecker w = new WordChecker();
+        import java.util.ArrayList;
+        wordList = list;
     }
